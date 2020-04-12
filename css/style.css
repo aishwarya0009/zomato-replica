@@ -258,9 +258,11 @@ header a {
   }
 }
 
-.banner .banner-content .search-btn {
+.banner .banner-content #search-btn {
   background: #cb202d;
   color: #fff;
+  height: 45px;
+  width: 70px;
 }
 
 .collection-container {
